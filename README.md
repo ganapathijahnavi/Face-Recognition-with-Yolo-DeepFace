@@ -1,5 +1,5 @@
-# Face-Recognition-with-Yolo-DeepFace
-***Human Detection and Face Recognition Using YOLOv8 and DeepFace***
+# Face-Recognition-with-Yolo-DeepFace           ***Human Detection and Face Recognition Using YOLOv8 and DeepFace***
+    # Requirements to install 
     !pip install ultralytics deepface matplotlib opencv-python-headless numpy
 Face recognition is a task of identifying or verifying a person's identity by analyzing and comparing facial features from images or videos.This project combines the power of "YOLOv8" for human detection and "DeepFace" for facial recognition to identify individuals in an image. It detects people using YOLO and then recognizes faces by comparing them with a database of known individuals using DeepFace.
 
