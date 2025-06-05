@@ -34,14 +34,16 @@ Smart photo organization based on identity.
 Personalized marketing or retail surveillance.
 
 📍More about YOLOv8 and DeepFace:
+
 YOLOv8 -- YOLOv8 (You Only Look Once, version 8) is the latest and most advanced version of the YOLO (real-time object detection) family developed by Ultralytics. It is PyTorch-based Which can easy to train and fine-tune. It's a powerful, fast, and highly accurate model for tasks like:
 1.Object Detection
 2.Instance Segmentation
 3.Image Classification
 4.Pose Estimation
 5.Tracking (video streams)
+
 DeepFace -- DeepFace is an open-source Python library for face recognition, face verification, and facial attribute analysis (like age, gender, emotion, race). It includes  Face Recognition, Face Verification, Facial Attributes, Multiple Models, Face Detectors as its features. It supports models like VGG-Face, Facenet, ArcFace, DeepFace, SFace, Dlib. It Uses detectors like OpenCV, RetinaFace, MTCNN, SSD, and more.
 
-🙋‍♀️Author
-Jahnavi Durga Ganapathi
+🙋‍♀️Author-->
+Jahnavi Durga Ganapathi, 
 Feel free to connect or contribute!
